@@ -28,4 +28,6 @@ body
   background: linear-gradient(
     90deg, #fb0094, #0000ff, #00ff00, #ffff00, #fb0094, #0000ff, #00ff00, #ffff00, #fb0094
   );
+  animation: animate 20s linear infinite;
+  background-size: 500%;
 }
