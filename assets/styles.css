@@ -41,4 +41,5 @@ body
   );
   animation: animate 20s linear infinite;
   background-size: 500%;
+  filter: blur(20px);
 }
