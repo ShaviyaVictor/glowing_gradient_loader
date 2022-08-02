@@ -1,7 +1,7 @@
 # glowing_gradient_loader
 Glowing Gradient Loading Bar Animation Effects for practice purposes.
        
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/glowing_gradient_loader/blob/main/assets/images/glowing_loader.png" width="600" height="350" alt="">             
 
 ## Built With
 
