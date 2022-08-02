@@ -12,3 +12,11 @@ body
   min-height: 100vh;
   background-color: #303030;
 }
+/* loader styles */
+.loader
+{
+  position: relative;
+  width: 300px;
+  height: 10px;
+  background: #fff;-webkit-box-reflect: below 1px linear-gradient(transparent, #000005)
+}
