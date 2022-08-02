@@ -43,3 +43,14 @@ body
   background-size: 500%;
   filter: blur(20px);
 }
+@keyframes animate 
+{
+  0%
+  {
+    background-position: 0 0;
+  }
+  0%
+  {
+    background-position: 500% 0;
+  }
+}
