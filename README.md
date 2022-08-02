@@ -13,7 +13,7 @@ Glowing Gradient Loading Bar Animation Effects for practice purposes.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
 
 ## Resources
 - [YouTube](https://www.youtube.com/watch?v=rdtTCVzTwSQ)                   
